@@ -32,7 +32,7 @@ Our graph database stores the information via the following nodes and relationsh
     
 The following Figure presents a visualisation of the aforementioned nodes and relationships.
 
-![](Images/1.png)
+![](Images/1.PNG)
 
 ## Task
 The file queries.cypher with following 8 Cpyher queries:
