@@ -1,4 +1,4 @@
-# Energy Forecasting of Smart House Appliances Using Time Series Algorithm
+# Energy Forecasting of Smart House Using CNN-LSTM networks
 
 ## Mr Nitin Nandeshwar
 ### 10 Feburary 2020
