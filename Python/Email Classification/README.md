@@ -12,7 +12,7 @@
 By setting the step size as 0.30 in train_test_split, I split the data into train data and test data I have plotted the bar plot and pie chart of the number of Spam and non-spam for both data set.
 ### Train Set :
 
-![Figure 1](Images/1.PNG)
+![Figure 1](Images/1.png)
 
 ### Test set:
 
